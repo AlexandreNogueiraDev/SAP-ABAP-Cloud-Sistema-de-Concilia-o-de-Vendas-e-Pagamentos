@@ -1,0 +1,4 @@
+@EndUserText.label: 'Serviço de Vendas'
+define service ZSD_ALE_VENDA {
+  expose ZC_ALE_VENDA as Vendas;
+}
